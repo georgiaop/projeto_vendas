@@ -87,7 +87,7 @@ Apoio à tomada de decisão baseada em dados
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/analise-vendas.git
+git clone https://github.com/georgiaop/projeto_vendas.git
 Abra o arquivo .ipynb no Google Colab
 
 Execute as células do notebook para visualizar as análises
