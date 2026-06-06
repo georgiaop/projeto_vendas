@@ -26,10 +26,7 @@ A análise foi desenvolvida para identificar padrões de comportamento, desempen
 ├── 📄 consultas.sql  
 ├── 📁 dados  
 │   └── vendas.csv  
-├── 📁 imagens  
-│   ├── consulta1.png  
-│   ├── consulta2.png  
-│   └── consulta3.png  
+
 
 ---
 
