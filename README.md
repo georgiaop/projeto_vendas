@@ -122,6 +122,6 @@ buscando unir minha experiência analítica da saúde com tecnologia e dados.
 
 ⭐ Contato
 
-LinkedIn: www.linkedin.com/in/georgiaoliveira1
+LinkedIn: https://www.linkedin.com/in/georgia-oliveira-paix%C3%A3o-duarte-61133729/
 GitHub: github.com/georgiaop
 
