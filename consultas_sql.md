@@ -4,8 +4,11 @@
 🔹 Produto Mais Vendido
 
 SELECT produto, SUM(quantidade) AS total_vendido
+
 FROM vendas
+
 GROUP BY produto
+
 ORDER BY total_vendido DESC;
 
 ![Produto Mais Vendido](produto mais vendido.png)
